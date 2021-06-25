@@ -43,7 +43,7 @@ You have to install Nextflow and perl:bio before runnung the code
 ### results
 I try to run the original program from bigbigtree
 But there is a problem when running hcluster
-![](./results.result.png)
+![](./results/result.png)
 
 After fixing these problems, I will put the data in to execute
 
